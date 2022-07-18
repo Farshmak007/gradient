@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.banner {
+    width: 1800px;
+    background-image: linear-gradient(120deg, rgb(0, 204, 255), rgba(18, 224, 231, 0.842), #40B8EA, rgba(0, 0, 255, 0.671));
+    display: flex;
+    border-radius: 36px;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+
+.text {
+    width: 715px;
+    margin-left: 200px;
+    margin-right: 52px;
+    margin-top: 96px;
+    margin-bottom: 108px;
+}
+
+.text h2 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 72px;
+color: #FFFFFF;
+}
+
+.text p, .text-two p {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+color: #FFFFFF;
+margin-top: 8px;
+margin-bottom: 36px;
+}
+
+.btn {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 260px;
+    padding-top: 24px;
+    padding-bottom: 20px;
+    background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+    border-radius: 36px;
+    border: none;
+}
+
+.img {
+    margin-top: 54px;
+    margin-bottom: 55px;
+    width: 573px;
+    height: 571px;
+    background-image: url(img/OKeyPost.svg);
+}
+
+
+
+.banner-two {
+    width: 1800px;
+    display: flex;
+    border-radius: 36px;
+    align-items: center;
+    margin: 0 auto;
+    background-image:  linear-gradient(45deg, #fab699 70%,#ffa5bd,#eea8fb);
+    margin-bottom:150px ;
+}
+
+.text-two {
+    width: 763px;
+    margin:111px 360px 112px 77px ;
+}
+
+.text-two h2 {
+    font-family: 'Roboto';
+font-weight: 700;
+font-size: 30px;
+color: #FFFFFF;
+}
+
+.img-two {
+    margin-top: 38px;
+    margin-bottom: 37px;
+    width: 402px;
+    height: 405px;
+    background-image: url(img/zakaz.svg);
+    margin-left: 200px;
+}
+
+
+.banner-three{
+    width: 1800px;
+    display: flex;
+    border-radius: 36px;
+    align-items: center;
+    margin: 0 auto;
+    background-image:linear-gradient(#696eff,#f6a9ff);
+}
+
+.dd {
+    font-family: 'Roboto';
+font-weight: 800;
+font-size: 44px;
+color: #FFFFFF;
+
+}
+
+.img-three {
+    margin-top: 38px;
+    margin-bottom: 37px;
+    width: 402px;
+    height: 405px;
+    background-image: url(img/tur.svg);
+    margin-left: 200px;
+}
